@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(101, 183, 112);
+    
+    .container{
+        color: rgb(136, 86, 26);
+        font-style: oblique;
+        text-align: center;
+        margin: auto ;
+        padding: 20px;
+        font-family: "Montenegrin Gothic One", serif;
+        border: 9px solid rgb(27, 25, 25);
+        margin-top: 100px;
+        border-radius: 8px;
+
+        
+
+
+}
+}
+.container-2{
+        color: rgb(128, 100, 189);
+        font-style: oblique;
+        text-align: center;
+        margin: auto ;
+        padding: 20px;
+        font-family: "Montenegrin Gothic One", serif;
+        border: 9px solid rgb(27, 25, 25);
+        margin-top: 100px;
+        border-radius: 8px;}
+.container h1{
+    text-align: center;
+    display: inline-block;
+    height: 100%;
+    
+    color:rgb(107, 107, 24);
+    border: 5px solid saddlebrown;
+    border-radius: 8px;
+}
+.container p{
+    color:#a11313;
+    border : 4px solid brown;
+}
+.container-2 h1{
+    text-align: left;
+    display: inline block;
+    color: beige;
+    border: 3px solid burlywood;
+    border-radius : 8px;
+
+}
+.container-2 p{
+    border: 3px solid bisque;
+
+}
